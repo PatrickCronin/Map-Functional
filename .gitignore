@@ -1,9 +1,10 @@
 .*
 !.gitignore
-Functional.*
 !Functional.xs
 MYMETA*
 *.h
 Makefile*
 !Makefile.PL
-pm_to_blib
+/pm_to_blib
+/Map-Functional-[0-9]*.tar.gz
+/Map-Functional-[0-9]*/
