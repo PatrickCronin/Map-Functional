@@ -2,3 +2,4 @@
 
 * Switch to Dist::Zilla for distribution management
 * Add tests
+* Add documentation
